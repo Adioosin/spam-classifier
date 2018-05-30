@@ -1,6 +1,6 @@
 # Spam Classifier Made using SVM model
 
-**dataset:**
+**Dataset:**
 https://www.kaggle.com/uciml/sms-spam-collection-dataset/data
 
 **Pre Processing done:**
@@ -10,6 +10,7 @@ https://www.kaggle.com/uciml/sms-spam-collection-dataset/data
 * Removed all the sms string length equal to one.
 
 **Test data/Train data ratio** = 0.33
+
 Total No of SMS - 5573
 
 **Model used:**
@@ -24,7 +25,7 @@ Test Recall         0.900794
 Test Precision      0.991266
 
 **Confusion Matrix:**
-| |Predicted 0 |Predicted 1|
+| | Predicted 0 | Predicted 1 |
 | --- | --- | --- |
-|Actual 0|1584|3|
-|Actual 1|24|228|
+| Actual 0 | 1584 | 3 |
+| Actual 1 | 24 | 228 |
