@@ -25,6 +25,7 @@ Test Recall         0.900794
 Test Precision      0.991266
 
 **Confusion Matrix:**
+
 | | Predicted 0 | Predicted 1 |
 | --- | --- | --- |
 | Actual 0 | 1584 | 3 |
